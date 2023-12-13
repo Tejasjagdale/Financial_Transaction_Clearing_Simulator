@@ -1,8 +1,6 @@
 import { createTheme, ThemeProvider } from "@mui/material";
 import {
   BrowserRouter,
-  Navigate,
-  Outlet,
   Route,
   Routes,
 } from "react-router-dom";
